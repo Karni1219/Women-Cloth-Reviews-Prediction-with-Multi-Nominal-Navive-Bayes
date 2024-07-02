@@ -1,5 +1,3 @@
-# Women-Cloth-Reviews-Prediction-with-Multi-Nominal-Navive-Bayes
-import libraby
 {
   "cells": [
     {
